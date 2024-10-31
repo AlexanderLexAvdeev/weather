@@ -1,0 +1,14 @@
+{
+  "ago": "назад",
+  "d": "д",
+  "degrees": "{degrees}°",
+  "degreesCelsius": "°C",
+  "degreesFahrenheit": "°F",
+  "feelsLike": "Ощущается как",
+  "h": "ч",
+  "min": "мин",
+  "now": "сейчас",
+  "searchPlace": "Поиск места",
+  "updated": "Обновлено",
+  "weather": "Погода"
+}
